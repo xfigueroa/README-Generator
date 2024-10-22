@@ -1,9 +1,9 @@
-# README Generator file
+# wdad
 
-None
+
 
 ## Description
-create file from user inputs 
+awdawd
 
 ## Table of Contents
 - [Installation](#installation)
@@ -14,20 +14,21 @@ create file from user inputs
 - [Questions](#questions)
 
 ## Installation
-1.copy reposiroty 2. navegate to the project directory 3. install the dependencies
+awdawd
 
 ## Usage
-run the following command in terminal: node index.js
+awd
 
+## License
 None
 
 ## Contributing
- if you like to contribute copy  the repo create a feature branch submit a PR 
+awd
 
 ## Tests
-link to the video: HERE
+awd
 
 ## Questions
-If you have any questions, you can reach me at [xfigueroa28@gmail.com](mailto:xfigueroa28@gmail.com).
-You can also find me on GitHub at [xfigueoa](https://github.com/xfigueoa).
+If you have any questions, you can reach me at [](mailto:).
+You can also find me on GitHub at [](https://github.com/).
 

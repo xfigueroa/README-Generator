@@ -2,7 +2,7 @@
 // If there is no license, return an empty string
 function renderLicenseBadge(license) {
   if (!license || license === 'None') {
-    return 'None';
+    return '';
   }
 
   const badges = {
@@ -20,7 +20,7 @@ function renderLicenseBadge(license) {
 // If there is no license, return an empty string
 function renderLicenseLink(license) {
   if (!license || license === 'None') {
-    return 'None';
+    return '';
   }
 
   const links = {
@@ -40,9 +40,7 @@ function renderLicenseSection(license) {
     return 'None';
   }
 
-  return `
-## License
-
+  return `  
 This project is licensed under the [${license}](${renderLicenseLink(license)}) license.
 `;
 }

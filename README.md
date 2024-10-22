@@ -3,6 +3,7 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Description
+
 This is a command-line application built with Node.js that generates a professional `README.md` file based on user input. The application prompts the user for details about their project, such as title, description, installation instructions, usage information, contribution guidelines, test instructions, license choice, GitHub username, and email. It then generates a structured `README.md` file with this information.
 
 ## Table of Contents
