@@ -31,7 +31,9 @@ This is a command-line application built with Node.js that generates a professio
 To use the application, run the following command in the terminal:
     node index.js
 
-You will be prompted to answer several questions regarding your project, and after completing the prompts, a README.md file will be generated based on your inputs
+You will be prompted to answer several questions regarding your project, and after completing the prompts, a New-README.md file will be generated based on your inputs
+
+!! Remember to copy and paste the New-README.md to your project and rename to README.md !!
 
 ## License
 
